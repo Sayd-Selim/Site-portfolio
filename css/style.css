@@ -759,7 +759,7 @@ h6 { font-size: 16px; }
 }
 .arlo_tm_services .service_inner ul li .inner:hover{box-shadow: 0px 0px 20px rgba(0,0,0,.2);}
 .arlo_tm_services .service_inner ul li .inner .svg{
-	width: 100px;
+	width: auto;
 	height: 100px;
 	color: #e65f78;
 	margin-bottom: 17px;
